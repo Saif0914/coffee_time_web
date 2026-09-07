@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="coffee_time_1.png" />
+<img width="1200" height="475" alt="Coffee Time preview" src="public/images/Coffee_Time_1.png" />
 </div>
 
 ## Run Locally
