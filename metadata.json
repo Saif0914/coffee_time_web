@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Blend",
+  "description": "Coffee shop and restaurant website featuring online menu, table reservation, story, blog, and service details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

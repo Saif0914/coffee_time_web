@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Coffee Blend</title>
+    <meta name="description" content="Coffee shop and restaurant website featuring online menu, table reservation, story, blog, and service details.">
+    <meta property="og:title" content="Coffee Blend">
+    <meta property="og:description" content="Coffee shop and restaurant website featuring online menu, table reservation, story, blog, and service details.">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
+
+    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="/css/ionicons.min.css">
+    <link rel="stylesheet" href="/css/flaticon.css">
+    <link rel="stylesheet" href="/css/icomoon.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <style>
+      /* Ensure animated classes work smoothly */
+      .ftco-animated {
+        animation-duration: 0.8s;
+        animation-fill-mode: both;
+      }
+      /* Fix any responsive or dropdown transitions */
+      .navbar-nav .dropdown-menu {
+        border-top: 2px solid #c49b63;
+        background: #120e0b;
+      }
+      .dropdown-item:hover, .dropdown-item:focus {
+        background: #c49b63;
+        color: #fff !important;
+      }
+      .home-slider {
+        position: relative;
+      }
+      /* Prevent intro bar from overlapping or merging into the hero photo slider */
+      .ftco-intro {
+        margin-top: 0 !important;
+        position: relative;
+        z-index: 5;
+      }
+      /* Sticky navbar transitions */
+      .ftco_navbar.scrolled {
+        position: fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+        margin-top: -130px;
+        background: #000 !important;
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+      }
+      .ftco_navbar.scrolled.awake {
+        margin-top: 0px;
+        transition: .3s all ease-out;
+      }
+      .ftco_navbar.scrolled.sleep {
+        transition: .3s all ease-out;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
