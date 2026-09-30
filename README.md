@@ -1,6 +1,6 @@
 # COFFEE TIME — Artisan Coffeehouse & Dining Experience
 
-![Coffee Time](./public/images/Coffee_Time_1.png)
+![Coffee Time](./public/images/Coffee_Time.png)
 
 Live link: [Coffee Time](https://saif-coffee-time.netlify.app)
 
